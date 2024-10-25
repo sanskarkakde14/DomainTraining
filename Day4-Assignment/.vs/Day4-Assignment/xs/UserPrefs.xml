@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5A6CF75A-7F0E-48D7-9728-3868738674ED}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Day4-Assignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day4-Assignment/TransportSchedule.cs">
+    <Files>
+      <File FileName="Day4-Assignment/Program.cs" Line="14" Column="1" />
+      <File FileName="Day4-Assignment/BookAuthorApp.cs" Line="33" Column="1" />
+      <File FileName="Day4-Assignment/CustomerApp.cs" Line="67" Column="6" />
+      <File FileName="Day4-Assignment/TransportSchedule.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day4-Assignment" expanded="True">
+            <Node name="Day4-Assignment">
+              <Node name="TransportSchedule.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

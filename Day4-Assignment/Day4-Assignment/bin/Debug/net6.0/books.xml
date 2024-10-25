@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookId>1</BookId>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <YearPublished>1997</YearPublished>
+    <AuthorId>1</AuthorId>
+  </Book>
+  <Book>
+    <BookId>2</BookId>
+    <Title>A Game of Thrones</Title>
+    <YearPublished>1996</YearPublished>
+    <AuthorId>2</AuthorId>
+  </Book>
+  <Book>
+    <BookId>3</BookId>
+    <Title>The Hobbit</Title>
+    <YearPublished>1937</YearPublished>
+    <AuthorId>3</AuthorId>
+  </Book>
+  <Book>
+    <BookId>4</BookId>
+    <Title>Murder on the Orient Express</Title>
+    <YearPublished>1934</YearPublished>
+    <AuthorId>4</AuthorId>
+  </Book>
+  <Book>
+    <BookId>5</BookId>
+    <Title>Adventures of Huckleberry Finn</Title>
+    <YearPublished>1884</YearPublished>
+    <AuthorId>5</AuthorId>
+  </Book>
+</ArrayOfBook>
