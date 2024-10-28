@@ -1,0 +1,15 @@
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/bin/Debug/net6.0/Day5-Assignment
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/bin/Debug/net6.0/Day5-Assignment.deps.json
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/bin/Debug/net6.0/Day5-Assignment.runtimeconfig.json
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/bin/Debug/net6.0/Day5-Assignment.dll
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/bin/Debug/net6.0/Day5-Assignment.pdb
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.csproj.AssemblyReference.cache
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.AssemblyInfoInputs.cache
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.AssemblyInfo.cs
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.csproj.CoreCompileInputs.cache
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.dll
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/refint/Day5-Assignment.dll
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.pdb
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/Day5-Assignment.genruntimeconfig.cache
+/Users/sanskarkakde/Documents/Hexaware Training/Technical/C#/DomainTraining/Day5-Assignment/Day5-Assignment/obj/Debug/net6.0/ref/Day5-Assignment.dll
