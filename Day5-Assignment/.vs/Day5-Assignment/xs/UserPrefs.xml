@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{B70E7C27-1BD2-4839-A6AC-6D3F524E2444}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Day5-Assignment FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Day5-Assignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day5-Assignment/Program.cs">
+    <Files>
+      <File FileName="Day5-Assignment/Program.cs" Line="18" Column="1" />
+      <File FileName="Day5-Assignment/Student.cs" />
+      <File FileName="Day5-Assignment/IUserpermission.cs" />
+      <File FileName="Day5-Assignment/LibraryService.cs" />
+      <File FileName="Day5-Assignment/UserFactory.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day5-Assignment">
+            <Node name="Day5-Assignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

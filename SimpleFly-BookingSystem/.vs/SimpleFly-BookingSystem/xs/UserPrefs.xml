@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{FA7AEBBD-AE53-4D32-8F5D-7B0B8B90734F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleFly-BookingSystem/Models/User.cs">
+    <Files>
+      <File FileName="SimpleFly-BookingSystem/Program.cs" />
+      <File FileName="SimpleFly-BookingSystem/appsettings.json" />
+      <File FileName="SimpleFly-BookingSystem/Data/SimplyFlyContext.cs" />
+      <File FileName="SimpleFly-BookingSystem/Interfaces/IUserService.cs" />
+      <File FileName="SimpleFly-BookingSystem/Interfaces/IFlightRouteService.cs" />
+      <File FileName="SimpleFly-BookingSystem/Interfaces/IBookingService.cs" Line="8" Column="17" />
+      <File FileName="SimpleFly-BookingSystem/Interfaces/IPaymentService.cs" />
+      <File FileName="SimpleFly-BookingSystem/Models/Booking.cs" Line="13" Column="27" />
+      <File FileName="SimpleFly-BookingSystem/Models/Payment.cs" Line="18" Column="6" />
+      <File FileName="SimpleFly-BookingSystem/Services/UserService.cs" Line="43" Column="35" />
+      <File FileName="SimpleFly-BookingSystem/Services/FlightRouteService.cs" />
+      <File FileName="SimpleFly-BookingSystem/Services/BookingService.cs" Line="90" Column="23" />
+      <File FileName="SimpleFly-BookingSystem/Controllers/BookingController.cs" Line="29" Column="54" />
+      <File FileName="SimpleFly-BookingSystem/Controllers/PaymentController.cs" Line="29" Column="16" />
+      <File FileName="SimpleFly-BookingSystem/Models/User.cs" Line="3" Column="1" />
+      <File FileName="SimpleFly-BookingSystem/Models/FlightRoute.cs" Line="26" Column="6" />
+      <File FileName="SimpleFly-BookingSystem/Services/PaymentService.cs" />
+      <File FileName="SimpleFly-BookingSystem/Controllers/FlightRouteController.cs" Line="62" Column="6" />
+      <File FileName="SimpleFly-BookingSystem/Controllers/UserController.cs" Line="22" Column="84" />
+      <File FileName="SimpleFly-BookingSystem/Authentication/JwtSettings.cs" />
+      <File FileName="SimpleFly-BookingSystem/Authentication/JwtTokenGenerator.cs" />
+      <File FileName="SimpleFly-BookingSystem/DTOs/RegisterModel.cs" Line="9" Column="6" />
+      <File FileName="SimpleFly-BookingSystem/DTOs/LoginModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleFly-BookingSystem" expanded="True">
+            <Node name="SimpleFly-BookingSystem">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="User.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleFly-BookingSystem PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>

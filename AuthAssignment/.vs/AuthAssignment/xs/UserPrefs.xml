@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F7868D3A-069D-4226-9BDF-D88147589B46}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AuthAssignment PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthAssignment/Controllers/UserController.cs">
+    <Files>
+      <File FileName="AuthAssignment/Program.cs" Line="28" Column="37" />
+      <File FileName="AuthAssignment/appsettings.json" Line="16" Column="26" />
+      <File FileName="AuthAssignment/Controllers/AccountController.cs" Line="9" Column="1" />
+      <File FileName="AuthAssignment/Controllers/AdminController.cs" Line="8" Column="29" />
+      <File FileName="AuthAssignment/Controllers/UserController.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthAssignment" expanded="True">
+            <Node name="AuthAssignment">
+              <Node name="Controllers">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
